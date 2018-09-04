@@ -568,14 +568,7 @@ function shuffle(queue) {
      const embed = new Discord.RichEmbed()
          .setColor("36393f")// By : Kahrba. || تم التطوير من قبل كههربا
          .setDescription(`**
-┏┓┏━┓╋╋┏┓╋╋╋┏┓
-┃┃┃┏┛╋╋┃┃╋╋╋┃┃
-┃┗┛┛┏━━┫┗━┳━┫┗━┳━━┓
-┃┏┓┃┃┏┓┃┏┓┃┏┫┏┓┃┏┓┃
-┃┃┃┗┫┏┓┃┃┃┃┃┃┗┛┃┏┓┃
-┗┛┗━┻┛┗┻┛┗┻┛┗━━┻┛┗┛
-Bot Version : ${version}
-Developer By : <@286088294234718209>
+
 **`)
    message.channel.send({embed});
 // By : Kahrba. || تم التطوير من قبل كههربا
