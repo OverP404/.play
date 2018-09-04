@@ -567,7 +567,7 @@ function shuffle(queue) {
     if (message.content === initcmd +"help") {
      const embed = new Discord.RichEmbed()
          .setColor("36393f")// By : Kahrba. || تم التطوير من قبل كههربا
-         .setDescription(`****`)
+         .setDescription(``)
    message.channel.send({embed});
 // By : Kahrba. || تم التطوير من قبل كههربا
    }
