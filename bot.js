@@ -61,7 +61,7 @@ bot.on('message', message => {
 
 bot.on('ready', () => {
 	// -
-  bot.user.setActivity("Rplay",{type: 'WATCHING'});
+  bot.user.setActivity(".play",{type: 'WATCHING'});
   console.log('            ╔[════════════]╗');
   console.log('              Bot Is Online');
   console.log('            ╚[════════════]╝');
