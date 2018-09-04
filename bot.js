@@ -569,9 +569,6 @@ function shuffle(queue) {
          .setColor("36393f")// By : Kahrba. || تم التطوير من قبل كههربا
          .setDescription(`**
 
-   }
-   });// By : Kahrba. || تم التطوير من قبل كههربا
-
    bot.on("message", message => {
    	   	        let kahrba = message.guild.member(message.author).roles.find('name', 'Dj');
                 if(!kahrba)
